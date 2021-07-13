@@ -1,5 +1,5 @@
 # Nashville City Cemetery
-Utilizing Excel to analyze data from the Nashville Cemetery and indvidually create marketing material.
+Utilizing Excel to analyze data from the Nashville Cemetery and indvidually create marketing material. Developed dashboard to present data with Tableau.
 
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
