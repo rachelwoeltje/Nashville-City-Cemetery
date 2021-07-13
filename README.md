@@ -1,6 +1,8 @@
 # Nashville City Cemetery
 Utilizing Excel to analyze data from the Nashville Cemetery and indvidually create marketing material. Developed dashboard to present data with Tableau.
 
+Dashboard: https://public.tableau.com/app/profile/rachel.woeltje/viz/NashvilleCityCemetery_16262017379080/Dashboard1
+
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
 The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a _starting point_ for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points.
