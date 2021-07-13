@@ -1,5 +1,5 @@
 # Nashville City Cemetery
-Utilizing Excel to analyze data from the Nashville Cemetery and create marketing material.
+Utilizing Excel to analyze data from the Nashville Cemetery and indvidually create marketing material.
 
 The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a _starting point_ for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
 
